@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcula Gorjetas Fatec Carapicuiba Manha</string>
+    <string name="enter_amount">Digite o valor consumido</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Gorjeta</string>
+    <string name="total">Total</string>
+    <string name="sem_consumo">Ok, você não consumiu nada, zerando</string>
+</resources>
